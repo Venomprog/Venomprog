@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Venomprog
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning Html/Css/Js/React
+- Stack: HTML/CSS, PUG/SCSS, JavaScript
 - 💞️ I’m looking to collaborate on hh.ru, Habr
 - 📫 How to reach me shaevgleb@mail.ru  / https://t.me/VenomProg
 
