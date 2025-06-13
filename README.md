@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Gleb, I am a front-end developer with 2+ years of experience.<br>I really like the beautiful and convenient UI, I would like to learn UI/UX design)<br>I'm also a fan of creating web applications.<br>My stack: HTML/CSS/SCSS/PUG/JS/REACT/REDUX/Typescript/Next.js/FSD. Interesting fact - I participated in the development of a PWA application for Alfa Insurance
+Hello! My name is Gleb, I am a front-end developer with 3+ years of experience.<br>I really like the beautiful and convenient UI, I would like to learn UI/UX design)<br>I'm also a fan of creating web applications.<br>My stack: HTML/CSS/SCSS/PUG/JS/REACT/REDUX/Typescript/Next.js/FSD. Interesting fact - I participated in the development of a PWA application for Alfa Insurance
 
 
 ## 🌐 Socials:
